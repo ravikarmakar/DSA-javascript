@@ -6,7 +6,7 @@
 
 // console.log(Math.trunc(19.64)); // remove the decimal part
 
-// console.log(Math.pow(2, 3)); //(2^5) 2* 2* 2 => 8
+// console.log(Math.pow(2, 3)); //(2^3) 2* 2* 2 => 8
 
 // console.log(Math.sqrt(25)); // squre root, output: 5
 // console.log(Math.sqrt(16)); // output: 4

@@ -20,7 +20,7 @@
 
 // console.log(2 % 9); // it will give us -> remainder: 2
 
-// Note: if divident is less then divisor then it will reutun divident as an answer
+// Note: if dividend is less then divisor then it will reutun divident as an answer
 
 // JavaScript Modulus Operator (%) - Quick Reminder
 
